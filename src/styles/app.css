@@ -1,0 +1,40 @@
+/* html */
+html {
+    background-color: rgb(223, 223, 223);
+}
+/* app */
+.flexApp {
+    display: flex;
+}
+
+
+/* side */
+.side {
+    width: 200px;
+}
+
+.account .img {
+    width: 100%;
+}
+
+
+/* main */
+.Main img {
+    height: 40px;
+}
+
+.flexImgAndName {
+    display: flex;
+}
+
+.tweetContainers {
+    width: 600px;
+    padding: 5px 1px;
+    background-color: rgb(194, 194, 194);
+}
+
+.tweetContainer {
+    margin: 20px 10px;
+    background-color: white;
+}
+
